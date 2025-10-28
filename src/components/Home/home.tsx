@@ -7,7 +7,7 @@ export const Home = () => {
   return (
     <S.Root>
       <S.Logo>
-        <img src="/logo.jpeg" alt="Logo Wandegar" />
+        <img src="./logo.jpeg" alt="Logo Wandegar" />
       </S.Logo>
       <S.Title>¿Quién es quién?</S.Title>
       <Button onClick={starGame}>Jugar</Button>

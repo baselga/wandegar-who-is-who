@@ -15,7 +15,7 @@ export const PersonCard = ({ person }: { person: Person }) => {
         <S.FrontName>{person.name}</S.FrontName>
       </S.Front>
       <S.Back>
-        <S.BackImg src="/logo.jpeg" alt="Card Back" />
+        <S.BackImg src="./logo.jpeg" alt="Card Back" />
       </S.Back>
     </S.Root>
   );

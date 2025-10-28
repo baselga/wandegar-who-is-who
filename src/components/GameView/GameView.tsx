@@ -20,7 +20,7 @@ export const GameView = () => {
       <S.Root>
         <S.TopBar>
           <S.Logo>
-            <img src="/logo.jpeg" alt="Logo Wandegar" />
+            <img src="./logo.jpeg" alt="Logo Wandegar" />
           </S.Logo>
           <S.Title>¿Quién es quién?</S.Title>
         </S.TopBar>      
